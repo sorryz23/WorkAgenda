@@ -27,7 +27,7 @@
   - Open index.html into a browser and input data.
   ## Usage
 
-  ![Alt text](.\SuperDisco\assets\WorkSS.png?raw=true "App Screenshot")
+  ![Alt text](./SuperDisco/assets/WorkSS.png?raw=true "App Screenshot")
 
   ## Features
 
