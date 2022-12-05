@@ -180,7 +180,7 @@ for (var i = 0; i < x.length; i++) {
 }
 // Event listener to save to local stroage
 $(".saveBtn").click(function () {
-  preventDefault();
+  event.preventDefault();
   var formValue = $(this).siblings(".form-control").val();
   console.log("Button Works");
   var listItem = $(this).parent().data("hour");
